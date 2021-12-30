@@ -6,8 +6,7 @@
 
 트위터는 @Allchive39  
 기술블로그는 https://velog.io/@sys_pandt  
-21년 12월 1일!  
-Inflearn에 잔디심기 프로젝트! 대개봉!  
+21년 12월 1일! Inflearn에 잔디심기 프로젝트! 대개봉!  
   
   
 - 2021.11.15 pnt 입사!
