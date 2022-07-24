@@ -11,6 +11,8 @@
 - 2021.11~12  inzent 대전 지부 OJT
 - 2022.03~  &nbsp;&nbsp;&nbsp; 22년 행정업무체계개선사업 진행.
 
+<!-- 사장님만큼 벌고 싶으면 사장님보다 더 공부하자. -->
+
 <!---
 yukamikuzzzang/yukamikuzzzang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. Amen.
