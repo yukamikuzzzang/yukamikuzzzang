@@ -8,7 +8,8 @@
  ✉️ sys@pandt.io
 
 - 2021.11.15 pnt 입사!
-- 2022.03 ~ 22' 행정체계개선사업 진행.
+- 2021.11~12  inzent 대전 지부 OJT
+- 2022.03~  &nbsp;&nbsp;&nbsp; 22년 행정업무체계개선사업 진행.
 
 <!---
 yukamikuzzzang/yukamikuzzzang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
