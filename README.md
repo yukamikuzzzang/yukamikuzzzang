@@ -5,8 +5,7 @@
 - 📫 java, jsp, spring
 
  🕊️  @Allchive39 (Twitter) <br>
- ✉️ sys@pandt.io
-<br><br>
+ ✉️ sys@pandt.io <br>
 1. 2021.11.15 pnt 입사!
 2. 2021.11,12 inzent 대전 지부 OJT
 3. 2022.03~ 22년 행정업무체계개선사업 진행.
