@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yukamikuzzzang
-- 👀 내가 맡은 것들을 대신해주었으면 좋겠다
-- 🌱 개발은 대신해줄 수 없으니까
+- 👀 내가 하는 일들을 조금 편하게 해주는 개발을 원해.
+- 🌱 개발은 대신해줄 수 없으니까.
 - 💞️ 한 걸음 한 걸음.
 - 📫 java, jsp, spring
+- now JAVA
 
  🕊️  @Allchive39 (Twitter) <br>
  ✉️ sys@pandt.io <br>
