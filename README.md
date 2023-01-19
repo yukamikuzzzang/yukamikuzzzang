@@ -3,7 +3,7 @@
 - 🌱 개발은 대신해줄 수 없으니까.
 - 💞️ 한 걸음 한 걸음.
 - 📫 java, jsp, spring
-- now JAVA
+- now JAVA, 리눅스 자격증, DB(SQL)공부
 
  🕊️  @Allchive39 (Twitter) <br>
  ✉️ sys@pandt.io <br>
