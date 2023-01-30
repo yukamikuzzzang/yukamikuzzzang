@@ -5,6 +5,8 @@
 - 📫 java, jsp, spring
 - now JAVA, 리눅스 자격증, DB(SQL)공부
 
+리눅스마스터1급 : 1차, 3월 11일
+
  🕊️  @Allchive39 (Twitter) <br>
  ✉️ sys@pandt.io <br>
 1. 2021.11.15 pnt 입사!
