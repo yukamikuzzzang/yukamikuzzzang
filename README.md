@@ -16,8 +16,7 @@
    * 2022.06~2022.12 헬프데스크 진행  
 4. 2023.02.13~2024.02.05 SM 작업 종료.  
 
-My Activities don't represent company's and opinion
-
+My Activities are not connected about company.
 <!-- 사장님만큼 벌고 싶으면 사장님보다 더 공부하자. -->
 
 <!---
