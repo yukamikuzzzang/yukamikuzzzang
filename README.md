@@ -3,9 +3,6 @@
 - 🌱 개발은 대신해줄 수 없으니까.
 - 💞️ 한 걸음 한 걸음.
 - 📫 java, jsp, spring
-- now JAVA, 리눅스 자격증, DB(SQL)공부
-
-리눅스마스터1급
 
  🕊️  @Allchive39 (X;twitter) <br>
  ✉️ sys@pandt.io <br>
